@@ -20,7 +20,7 @@ Power BI – For data visualization & interactive dashboards
 
 DAX – Calculated columns, measures, KPIs
 
-(Optional enhancements with Python/R available)
+
 
 🌐 Live Demo or Preview
 
