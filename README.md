@@ -1,4 +1,4 @@
-📊 HR Analytics Dashboard — Unlocking People Potential Through Data
+📊 HR Dataset Analytics Dashboard — Unlocking People Potential Through Data
 
 “Behind every data point is a human story — this dashboard tells it.”
 
